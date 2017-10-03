@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+*~
+index.html
+app/**/*.css
+app/**/*.js
+!app/vendors/**/*
+.sass-cache
